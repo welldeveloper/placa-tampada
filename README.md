@@ -1,4 +1,4 @@
-# 🚗 Tampador de Placas
+# 🚗 Tampador de Placas V.1.0.0 (Em desenvolvimento)
 
 Sistema web desenvolvido em PHP para detectar e ocultar automaticamente placas de veículos em imagens.
 
